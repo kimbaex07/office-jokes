@@ -6,11 +6,9 @@
 
 > I hit reply-all to tell everyone to stop replying all, and now I'm the reason there's a 47-email thread about replying all.
 
-Everyone in an office has watched it happen: one person replies all to a company-wide email, and then a second wave replies all just to say "please stop replying all". The narrator steps in as the sensible hero who will end the chaos — and becomes its main cause instead. The thread about replying all is now longer than the thread it was trying to kill.
+Everyone in an office has lived through a reply-all storm. The joke lands because the narrator tries to be the hero who ends it, then becomes the villain who feeds it. One well-meant click turns a complaint into 47 more emails, and the punchline is the exact number: specific enough to feel real, big enough to feel hopeless.
 
-## Why it lands
-
-The turn is a self-own with nowhere to hide. The narrator starts as the one reasonable person in the inbox and ends as the reason the inbox is on fire: the cure and the disease are the same email. The number 47 does the heavy lifting — it turns a vague complaint about email into a specific disaster you can picture growing in real time, notification after notification. And the take is fresh: no Monday dread, no broken printer, no photocopier. It picks the reply-all pile-up, the distinctly modern office ritual where everyone agrees the behaviour is bad while doing it anyway — and the person who knows best does it loudest.
+It works because the setup and the payoff are the same action. Telling everyone to stop replying all *is* replying all, so the fix creates the very problem it was meant to solve — and the narrator knows it.
 
 ## Run it
 
@@ -18,8 +16,6 @@ The turn is a self-own with nowhere to hide. The narrator starts as the one reas
 python3 main.py
 ```
 
-This writes the one-liner to `/output/entry.txt` (UTF-8, trailing newline).
-
----
+This writes the joke to `/output/entry.txt`.
 
 Built for [make.fun](https://make.fun/r/cbprbg0z) — Make the AI Judge Laugh: Office Jokes.
